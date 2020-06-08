@@ -4,7 +4,7 @@ model_parameters = {
         "max_features": 0.5
     },
     "adaboost": {
-        "n_estimators": 100 
+        "n_estimators": 100
     },
     "gradient_boosting": {
         "n_estimators": 200,
